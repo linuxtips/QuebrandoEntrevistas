@@ -1,5 +1,7 @@
 # #QuebrandoEntrevistas - Descomplicando Entrevistas Técnicas para Pessoas Desenvolvedoras!
 
+### Veja os vídeos no Youtube para que você possa entender como foi feito o processo inteiro. É importante para entender como vamos quebrar as entrevistas por ae!
+
 ## Desafio técnico
 
 Dada uma lista de números, encontre o primeiro par que soma um determinado alvo.
